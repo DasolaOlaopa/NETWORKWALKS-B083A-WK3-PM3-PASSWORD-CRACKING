@@ -25,6 +25,11 @@ This table lists each tools used in this project and also its purpose in the pro
 
 # 5. Activities Performed 
 ## 5.1 Password Cracking with JTR & Johnny GUI
-I downloaded the locked PDF files provided and opened Online Hash Crack in my web browser. The locked PDF was uploaded on online hash crack and the hash file was generated 
+I downloaded the locked PDF files provided and opened Online Hash Crack in my web browser. The locked PDF was uploaded on online hash crack and the hash file was generated.
+
+![JOHNNY 1 settings](johnny1.png)
+
+The hash value displayed above was copied and pasted on my notepad. I saved it as a `.txt`for easy access and opened JTR app. I clicked on the open password file and uploaded the `hash.txt` then I started the attack. JTR cracked the password and displayed it. I copied the password and was able to open the PDF file.
 
 ![HASH crack settings](hash-crack..png)
+
