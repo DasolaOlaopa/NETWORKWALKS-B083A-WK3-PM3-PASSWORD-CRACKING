@@ -44,3 +44,9 @@ I opened NetworkWalks Hash Calculator on my web browser and I uploaded the locke
 
 ![PDF hash settings](pdf-hash2.png)
 
+The hash values displayed above were copied to the NetworkWalks Password Cracker and it was able to crack and display the passwords for the other two PDF files respectfully.
+
+![PASSWORD cracker settings](password-cracker.png)
+
+![PASSWORD cracker2 settings](password-cracker2.png)
+
