@@ -37,3 +37,10 @@ The hash value displayed above was copied and pasted on my notepad. I saved it a
 
 ![UNLOCKED pdf settings](unlocked-pdf.png)
 
+## 5.2 Password Cracking with NetworkWalks Tools
+I opened NetworkWalks Hash Calculator on my web browser and I uploaded the locked PDF file. The hash calculator generated the hash value for the PDF file.
+
+![PDF hash settings](pdf-hash.png)
+
+![PDF hash settings](pdf-hash2.png)
+
