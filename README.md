@@ -50,3 +50,11 @@ The hash values displayed above were copied to the NetworkWalks Password Cracker
 
 ![PASSWORD cracker2 settings](password-cracker2..png)
 
+The cracked passwords were copied to the locked PDF files and I was able to open it successfully.
+
+![UNLOCKED pdf2 settings](unlocked-pdf2.png)
+
+![UNLOCKED pdf3 settings](unlocked-pdf3.png)
+
+
+
