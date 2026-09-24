@@ -16,6 +16,10 @@ Also, NetworkWalks Hash Calculator and Password Cracker were used to open locked
 This table lists each tools used in this project and also its purpose in the project.
 | Tool | Purpose |
 |------|---------|
-
+| John the Ripper (Jumbo build) | Core password cracking engine that runs the actual attack against the extracted hash |
+| Johnny GUI | Graphical frontend for John the Ripper, allowing hash loading and attack control without command line syntax |
+| NetworkWalks Hash Calculator | Converts the locked PDF into a crackable hash format |
+| NetworkWalks Password Cracker | Used to recover the password from the extracted hash |
+| Notepad | Used to save the extracted hash as a `.txt` file in the correct format for Johnny to read |
 
 
