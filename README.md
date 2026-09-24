@@ -3,7 +3,7 @@
 # PASSWORD CRACKING REPORT
 ## PASSWORD CRACKING WITH JTR, JTR JOHNNY & NETWORKWALKS TOOLS
 
-## 3. Liability Disclaimer
+## 1. Liability Disclaimer
 This exercise was performed on a file provided specifically for an authorized educational cybersecurity lab as part of the NetworkWalks internship program. No real world systems or files were accessed without permission.
 ## 2. Introduction
 This report covers password cracking using John the Ripper (JTR), JTR Johnny and NetworkWalks tools. JTR is a very popular password cracking tool used by cybersecurity professionals to test how strong and secure passwords are. It checks many types of password hashes and can also unlock password protected files like PDF, ZIP, and Office documents.
