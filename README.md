@@ -35,3 +35,5 @@ The hash value displayed above was copied and pasted on my notepad. I saved it a
 
 ![CRACKED password settings](Cracked-password.png)
 
+![UNLOCKED pdf settings](unlocked-pdf.png)
+
