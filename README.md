@@ -9,6 +9,7 @@ This exercise was performed on a file provided specifically for an authorized ed
 This report covers password cracking using John the Ripper (JTR), JTR Johnny and NetworkWalks tools. JTR is a very popular password cracking tool used by cybersecurity professionals to test how strong and secure passwords are. It checks many types of password hashes and can also unlock password protected files like PDF, ZIP, and Office documents.
 
 In this lab JTR John and JTR Johnny were used to recover the password of a protected PDF file. The exercise helped to learn how password cracking works and why it is important to use strong passwords for a better protection.
+
 Also, NetworkWalks Hash Calculator and Password Cracker were used to open locked pdf files.
 ## 3. Objective
 * To crack the passwords of locked PDF files using JTR John and Johnny GUI, NetworkWalks tools on Windows.
@@ -22,5 +23,7 @@ This table lists each tools used in this project and also its purpose in the pro
 | NetworkWalks Password Cracker | Used to recover the password from the extracted hash |
 | Notepad | Used to save the extracted hash as a `.txt` file in the correct format for Johnny to read |
 
-
+# 5. Activities Performed 
+## 5.1 Password Cracking with JTR & Johnny GUI
+I downloaded the locked PDF files provided and opened Online Hash Crack in my web browser. The locked PDF was uploaded on online hash crack and the hash file was generated 
 
