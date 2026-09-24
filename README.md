@@ -12,7 +12,7 @@ In this lab JTR John and JTR Johnny were used to recover the password of a prote
 Also, NetworkWalks Hash Calculator and Password Cracker were used to open locked pdf files.
 ## 3. Objective
 * To crack the passwords of locked PDF files using JTR John and Johnny GUI, NetworkWalks tools on Windows.
-## 4. Tolls Used 
+## 4. Tools Used 
 This table lists each tools used in this project and also its purpose in the project.
 | Tool | Purpose |
 |------|---------|
@@ -21,5 +21,6 @@ This table lists each tools used in this project and also its purpose in the pro
 | NetworkWalks Hash Calculator | Converts the locked PDF into a crackable hash format |
 | NetworkWalks Password Cracker | Used to recover the password from the extracted hash |
 | Notepad | Used to save the extracted hash as a `.txt` file in the correct format for Johnny to read |
+
 
 
