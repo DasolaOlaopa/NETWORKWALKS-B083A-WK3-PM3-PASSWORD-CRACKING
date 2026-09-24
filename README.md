@@ -48,5 +48,5 @@ The hash values displayed above were copied to the NetworkWalks Password Cracker
 
 ![PASSWORD cracker settings](password-cracker.png)
 
-![PASSWORD cracker2 settings](password-cracker2.png)
+![PASSWORD cracker2 settings](password-cracker2..png)
 
