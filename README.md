@@ -27,4 +27,4 @@ This table lists each tools used in this project and also its purpose in the pro
 ## 5.1 Password Cracking with JTR & Johnny GUI
 I downloaded the locked PDF files provided and opened Online Hash Crack in my web browser. The locked PDF was uploaded on online hash crack and the hash file was generated 
 
-![HASH crack settings](hash-crack.png)
+![HASH crack settings](hash-crack..png)
