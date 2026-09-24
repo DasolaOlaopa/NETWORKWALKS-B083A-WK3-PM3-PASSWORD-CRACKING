@@ -56,5 +56,28 @@ The cracked passwords were copied to the locked PDF files and I was able to open
 
 ![UNLOCKED pdf3 settings](unlocked-pdf3.png)
 
+# 6. Result
+Password successfully recovered and the PDF was unlocked.
+# 7 What I Learned
+I learnt that hashing is a one-way function, while encryption is reversible with the right key and understanding this distinction is very important in password security.
+Also, weak or common passwords can be cracked quickly, even by beginners using free, widely available tools especially when hash value is known. This is why strong, unique passwords are non negotiable for protecting sensitive documents.
 
+# Security & Ethical Use
+This was all done within an authorized, educational lab setting, stating that these techniques are only ethical and legal when used with proper permission.
+
+# Tools & Resources
+* JTR: https://www.openwall.com/john/
+* Johnny GUI: https://openwall.info/wiki/john/johnny
+* NetworkWalks Hash Calculator: https://networkwalks.com/hash-calculator/
+* NetworkWalks Password Cracker: https://networkwalks.com/password-cracker/
+
+👤 **Author**
+**Dasola Olaopa**
+Cybersecurity Professional B083A
+
+LinkedIn: https://www.linkedin.com/in/olaopadasola/
+
+📌 **Project Information**
+Program Name: Cybersecurity at NetworkWalks | Week: 02 |
+Repository: GitHub
 
