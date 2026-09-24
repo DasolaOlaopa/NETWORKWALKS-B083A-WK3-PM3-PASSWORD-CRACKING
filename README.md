@@ -33,5 +33,5 @@ The hash value displayed above was copied and pasted on my notepad. I saved it a
 
 ![JOHNNY 1 settings](johnny1.png)
 
-![CRACKED password settings](Cracked-password..png)
+![CRACKED password settings](Cracked-password.png)
 
